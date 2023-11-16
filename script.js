@@ -7,4 +7,4 @@ cognome = prompt("inserisci cognome");
 colore = prompt("colore preferito");
 //console.log(colore);
 
-document.getElementById("title").innerHTML = "Salve, mi chiamo "+ nome +" "+cognome+", ed il mio colore preferito è: "+colore+""
+document.getElementById("title").innerHTML = "Salve, mi chiamo "+ nome +" "+cognome+", ed il mio colore preferito è: "+colore+"";
